@@ -1,3 +1,4 @@
+# Amol Ambkar
 # program to check
 # number is
 # armstrong or not
