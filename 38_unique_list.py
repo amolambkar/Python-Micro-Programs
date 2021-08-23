@@ -1,3 +1,5 @@
+# Author -  Amol Ambkar
+
 # print the
 # unique elements
 # from list
