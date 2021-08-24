@@ -1,3 +1,5 @@
+# Author - Amol Ambkar
+
 # program to
 # find
 # factors of given
