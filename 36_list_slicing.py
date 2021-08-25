@@ -1,3 +1,4 @@
+# Author - Amol Ambkar
 # python program
 # to access
 # slice of list
