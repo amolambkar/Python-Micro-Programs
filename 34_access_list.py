@@ -1,3 +1,5 @@
+# Author - Amol Ambkar
+
 # python program 
 # to access any
 # element from list
