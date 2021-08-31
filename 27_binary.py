@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # program to convert
 # decimal Number
 # to binary
