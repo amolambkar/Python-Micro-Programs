@@ -1,3 +1,4 @@
+# author - Amol Ambkar
 # python program
 # to find
 # maximum element
