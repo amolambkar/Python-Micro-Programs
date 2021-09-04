@@ -1,4 +1,5 @@
-#python program
+# author - Amol Ambkar
+# python program
 # to convert
 # radians to degrees
 
