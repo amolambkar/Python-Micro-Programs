@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # python program 
 # to find
 # floor value
