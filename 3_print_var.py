@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # print many variables in one
 # row separated by space
 
