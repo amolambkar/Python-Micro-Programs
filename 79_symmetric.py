@@ -1,3 +1,4 @@
+# author - Amol Ambkar
 # check string is 
 # symmetric or not
 
