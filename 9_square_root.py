@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # python program to
 # find the square root 
 # of given number
