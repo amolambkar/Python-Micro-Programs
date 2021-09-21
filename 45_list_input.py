@@ -1,3 +1,4 @@
+# author - amol ambkar
 # python program
 # to take
 # list as input
