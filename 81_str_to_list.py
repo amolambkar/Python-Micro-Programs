@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # python program
 # to convert list to
 # string
