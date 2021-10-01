@@ -1,3 +1,4 @@
+# author - Amol Ambkar
 # python program
 # to check sets
 # are disjoint or 
