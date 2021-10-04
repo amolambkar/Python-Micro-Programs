@@ -1,3 +1,4 @@
+# author - Amol Ambkar
 # python program
 # to get
 # current date and
