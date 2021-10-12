@@ -1,3 +1,4 @@
+# author - amol ambkar
 # python program
 # to find
 # logarithm base2
