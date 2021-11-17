@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # using discard()
 # to remove element
 # from set
