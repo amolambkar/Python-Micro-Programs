@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # python program
 # to pop element
 # from set
