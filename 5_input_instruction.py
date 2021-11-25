@@ -1,6 +1,6 @@
 
 
-
+# author - Amol Ambkar
 
 # take input from user
 # by giving instructions
