@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # program to
 # check
 # string is
