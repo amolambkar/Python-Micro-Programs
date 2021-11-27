@@ -1,5 +1,6 @@
 # author -  Amol Ambkar
-#python program
+
+# python program
 # to print
 # emoji
 
