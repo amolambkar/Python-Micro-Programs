@@ -1,3 +1,5 @@
+# author - Amol Ambkar
+
 # program to remove
 # punctuations from
 # string
